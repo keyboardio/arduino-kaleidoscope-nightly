@@ -10,7 +10,7 @@
          "platforms" : [
             {
                "architecture" : "avr",
-               "archiveFileName" : "Kaleidoscope-2021.09.03181345.tar.bz2",
+               "archiveFileName" : "Kaleidoscope-2021.9.3182817.tar.bz2",
                "boards" : [
                   {
                      "name" : "Keyboardio Model 01"
@@ -20,12 +20,12 @@
                   }
                ],
                "category" : "Contributed",
-               "checksum" : "SHA-256:68f523e986586f3b255e41dcc822213c27665c78a17ef91720b2e00c74f41067",
+               "checksum" : "SHA-256:5d0d408706b1f5ed8ee0843178ea3100dd623f51650a524f7f6e7d228be1a934",
                "help" : {
                   "online" : "https://community.keyboard.io"
                },
                "name" : "Kaleidoscope keyboards",
-               "size" : 757842,
+               "size" : 757876,
                "toolsDependencies" : [
                   {
                      "name" : "avr-gcc",
@@ -38,8 +38,8 @@
                      "version" : "6.3.0-arduino17"
                   }
                ],
-               "url" : "https://raw.githubusercontent.com/keyboardio/arduino-kaleidoscope-master/master/builds//Kaleidoscope-2021.09.03181345.tar.bz2",
-               "version" : "2021.09.03181345"
+               "url" : "https://raw.githubusercontent.com/keyboardio/arduino-kaleidoscope-master/master/builds//Kaleidoscope-2021.9.3182817.tar.bz2",
+               "version" : "2021.9.3182817"
             }
          ],
          "tools" : [],
